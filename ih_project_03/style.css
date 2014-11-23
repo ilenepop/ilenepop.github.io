@@ -1,8 +1,8 @@
 * {margin:0; padding:0; box-sizing:border-box;}
 
 body {
-  background-color:#525a6a;
-  background-size:auto,cover;
+  background-color:rgba(82,90,106,1);
+  background-size:auto,color;
   color:white;
   font-family:helvetica,arial,sans-serif;
   font-size:22px;
@@ -14,7 +14,9 @@ section {
 
 hr {
   border-color:rgba(253,110,107,1);
-  margin: 30px 0px 0 30px;
+  margin: 0;
+  max-height: 2px;
+  padding: 30px 0 0 0;
   width: 50px;
-  separator:left;
+  text-align:left;
 }
