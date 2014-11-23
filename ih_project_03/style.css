@@ -1,7 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background-image:url("../Assets/stripes.png") repeat-x, url("..Assets/background.jpg")no repeat;
   background-color:rgba(82,90,106,1);
   background-size:auto,color;
 }
