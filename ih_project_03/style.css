@@ -1,18 +1,20 @@
-* {margin:0; padding:0;box-sizing:border-box;}
+* {margin:0; padding:0; box-sizing:border-box;}
+
 body {
-background-image:; 
-background-size:;
-background-color:;  
+  background-image: url("../assets/stripes.png"); url("../assets/background.jpg");
+  background-size: auto,cover;
+  background-color:#525a6a;  
 
-font-size:;
-font-family:; 
-color: white;
-
+  font-size:;
+  font-family:; 
+  color: white;
 }
-
 section {
-margin:0;
-width:0;
-border-color:0;
-text-align:; left;
+  margin: 300px 0 0 100px;
+}
+hr{
+  margin: 30px 0px 30px;
+  width: 50px;
+  border-color: #fd6e6e;
+  text-align: left;
 }
