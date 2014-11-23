@@ -1,10 +1,18 @@
-* {margin:16px 0 0 16px;padding:0;box-sizing:border-box;}
+* {margin:0; padding:0;box-sizing:border-box;}
 body {
-background: rgba(255,64,64,1);
-}
-hr {
-background-image: {background}
-}
-a {
+background-image:; 
+background-size:;
+background-color:;  
 
+font-size:;
+font-family:; 
+color: white;
+
+}
+
+section {
+margin:0;
+width:0;
+border-color:0;
+text-align:; left;
 }
