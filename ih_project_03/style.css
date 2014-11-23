@@ -1,11 +1,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background-image:url("images/background.jpg"), url("images/stripes.png");
+  background-image:url("images/stripes.png"), url("images/background.jpg");
   background-size:auto, cover;
   background-repeat: repeat-x, no-repeat;
   background-color:rgba(82,90,106,1);
-  
 }
 
 section {
