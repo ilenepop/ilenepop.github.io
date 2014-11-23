@@ -3,7 +3,7 @@
 body {
   background-image:url("images/background.jpg"), url("images/stripes.png");
   background-color:rgba(82,90,106,1);
-  background-size:auto,color;
+  background-size:auto, cover;
 }
 
 section {
