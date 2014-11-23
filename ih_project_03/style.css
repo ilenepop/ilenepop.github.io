@@ -2,8 +2,10 @@
 
 body {
   background-image:url("images/background.jpg"), url("images/stripes.png");
-  background-color:rgba(82,90,106,1);
   background-size:auto, cover;
+  background-repeat: repeat-x, no-repeat;
+  background-color:rgba(82,90,106,1);
+  
 }
 
 section {
