@@ -12,8 +12,8 @@ nav {
   padding:15px 0;
 }
 nav ul {
-  margin:0 auto;
-  width:960px;
+  margin:0px 240px auto;
+  width:920px;
 }
 nav li {
   display:inline-block;
@@ -29,7 +29,7 @@ nav a {
 
 section {
   background:#fff;
-  margin:100px 0 100px 0;
+  margin:100px 0 50px 0;
 }
 section div {
   margin:0 auto;
@@ -44,10 +44,10 @@ p {
   font-family: 'Anaheim', helvetica,arial,sans-serif; 
 }
 .sushiImage {
-  background-image:url("images/noshisite.png");
+  background-image:url("images/noshisite.jpg");
   background-size:cover;
   background-repeat:no-repeat;
-  height: 400px;
+  height: 420px;
   width:100%;
 }
 
