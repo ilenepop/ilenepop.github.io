@@ -1,11 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background-image:url("images/noshisite.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
-  background-position:center bottom;
-  background-color:rgba(255,128,0,1);*/
   color:#333333;
   font-family: 'Anaheim',helvetica,arial,sans-serif;
   font-size: 16px;
@@ -48,5 +43,11 @@ h1 {
 p { 
   font-family: 'Anaheim', helvetica,arial,sans-serif; 
 }
-
+.sushiImage {
+  background-image:url("images/noshisite.png");
+  background-size:cover;
+  background-repeat:no-repeat;
+  height: 400px;
+  width:100%;
+}
 
