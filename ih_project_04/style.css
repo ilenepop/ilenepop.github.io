@@ -14,17 +14,31 @@ body {
 nav {
   background:rgba(255,128,0,1);
 }
+nav a {
+  color:#fff;
+  font-family: 'Montserrat', arial, sans-serif; font-weight: 700;
+  text-align:center;
+  text-decoration:none;
+  width:16%;
+}
+
 section {
   background:#fff;
   margin:100px 0 100px 0;
 }
+section div {
+  width:50%;
+}
 
 h1 { 
-  font-family: 'Montserrat', arial, sans-serif; font-weight: 700; 
 }
 
 p { 
   font-family: 'Anaheim', helvetica,arial,sans-serif; 
+}
+#content {
+  margin:0 auto;
+  width:960px;
 }
 
 
