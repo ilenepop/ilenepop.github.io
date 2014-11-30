@@ -1,10 +1,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background-image:url("images/stripe.png"), url("images/noshisite.png");
+  background-image:url("images/stripe.png"), url("images/noshisite.jpg");
   background-size:auto, cover;
   background-repeat: repeat-x, no-repeat;
-  background-color:rgba(255,255,255,1);
+  background-color:rgba(255,128,0,1);
   color:#333333;
   font-family: 'Anaheim',helvetica,arial,sans-serif;
   font-size: 16px;
