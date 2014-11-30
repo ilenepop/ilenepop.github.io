@@ -1,18 +1,21 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  background-image:url("images/stripe.png"), url("images/noshisite.jpg");
+  /*background-image:url("images/stripe.png"), url("images/noshisite.jpg");
   background-size:auto, cover;
   background-repeat: repeat-x, no-repeat;
-  background-color:rgba(255,128,0,1);
+  background-color:rgba(255,128,0,1);*/
   color:#333333;
   font-family: 'Anaheim',helvetica,arial,sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: normal;
 }
-
+nav {
+  background:rgba(255,128,0,1);
+}
 section {
+  background:#fff;
   margin:100px 0 100px 0;
 }
 
