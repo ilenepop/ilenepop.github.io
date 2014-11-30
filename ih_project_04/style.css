@@ -16,7 +16,12 @@ section {
   margin:100px 0 100px 0;
 }
 
-h1 { font-family: 'Montserrat', arial, sans-serif; font-weight: 700; }
-p { font-family: 'Anaheim', helvetica,arial,sans-serif; }
+h1 { 
+  font-family: 'Montserrat', arial, sans-serif; font-weight: 700; 
+}
+
+p { 
+  font-family: 'Anaheim', helvetica,arial,sans-serif; 
+}
 
 
