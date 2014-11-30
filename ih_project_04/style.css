@@ -1,9 +1,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  /*background-image:url("images/stripe.png"), url("images/noshisite.jpg");
-  background-size:auto, cover;
-  background-repeat: repeat-x, no-repeat;
+  background-image:url("images/noshisite.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center bottom;
   background-color:rgba(255,128,0,1);*/
   color:#333333;
   font-family: 'Anaheim',helvetica,arial,sans-serif;
@@ -13,13 +14,22 @@ body {
 }
 nav {
   background:rgba(255,128,0,1);
+  padding:15px 0;
+}
+nav ul {
+  margin:0 auto;
+  width:960px;
+}
+nav li {
+  display:inline-block;
+  width:16%;
 }
 nav a {
   color:#fff;
   font-family: 'Montserrat', arial, sans-serif; font-weight: 700;
   text-align:center;
   text-decoration:none;
-  width:16%;
+  text-transform: uppercase;
 }
 
 section {
@@ -27,6 +37,8 @@ section {
   margin:100px 0 100px 0;
 }
 section div {
+  margin:0 auto;
+  text-align:center;
   width:50%;
 }
 
@@ -35,10 +47,6 @@ h1 {
 
 p { 
   font-family: 'Anaheim', helvetica,arial,sans-serif; 
-}
-#content {
-  margin:0 auto;
-  width:960px;
 }
 
 
