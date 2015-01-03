@@ -1,6 +1,12 @@
-
-
 body {
-  font-family: "adobe-caslon-pro"
-  font-size: 200px;
+  font-family: "adobe-caslon-pro",serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+nav {
+  font-family: "hwt-artz",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px
 }
