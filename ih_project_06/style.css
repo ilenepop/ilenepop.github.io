@@ -51,8 +51,8 @@ p {
   font-size: 2.5em; 
 }
 
-.ihopImage {
-  background-image:url("images/ihop.png");
+.algorithmImage {
+  background-image:url("images/algorithm.jpg");
   background-size: cover;
   background-repeat:no-repeat;
   height:180px;
