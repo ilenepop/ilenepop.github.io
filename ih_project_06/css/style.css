@@ -1,12 +1,20 @@
-h1 {
-  font-family: "hwt-artz",sans-serif;
-  font-style: normal;
-  font-weight: 700;
-}
-
 body {
   font-family: "adobe-caslon-pro",serif;
   font-style: normal;
   font-weight: 400;
+  font-size: 100px;
 }
 
+nav {
+  font-family: "hwt-artz",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px
+}
+
+p {
+  font-family: "hwt-artz",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px
+}
