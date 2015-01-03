@@ -22,7 +22,6 @@ nav li {
 nav a {
   color:#fff;
   font-family: 'Montserrat', arial, sans-serif; font-weight: 700;
-  font-size: 1.5em;
   text-align:center;
   text-decoration:none;
   text-transform: uppercase;
@@ -30,7 +29,7 @@ nav a {
 
 section {
   background:#fff;
-  margin:100px 0 50px 0;
+  margin:18px 0 50px 0;
 }
 section div {
   margin:0 auto;
@@ -38,17 +37,22 @@ section div {
   width:50%;
 }
 
-h1 { 
+img {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  width: 600px;
 }
 
 p { 
-  font-family: 'Anaheim', helvetica,arial,sans-serif; 
+  font-family: 'Anaheim', helvetica,arial,sans-serif;
+  font-size: 2.5em; 
 }
-.sushiImage {
-  background-image:url("images/noshisite.jpg");
+.algorithmImage {
+  background-image:url("images/algorithm.jpg");
   background-size:cover;
   background-repeat:no-repeat;
-  height: 420px;
+  height:180px;
   width:100%;
 }
 
