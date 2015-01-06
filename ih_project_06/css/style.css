@@ -1,17 +1,36 @@
-body {
-  font-family:'Open-Sans', sans-serif;
-  font-size: 15px;
+body {}
+
+main {
+  margin: 0 auto;
+  width: 960px;
 }
 
-p {
-  font-family: 'Open-Sans';
-  font-size: 3em;
+nav {
+  background-color: #aaaaaa;
+  font-family: Arial, sans-serif;
 }
 
-nav{
-  font-size: 1.5em;
+nav a {
+  background-color: #ff7900;
+  color: white;
+  text-decoration: none;
+  margin: 0 60px;
+  padding: 10px;
+  width: 110px;
+  display: inline-block;
+  text-align: center;
 }
 
-a{
-  font-size: 1em;
+nav a:hover {
+  background-color: #aaaaaa;
+}
+
+#splash {
+  background-color: #888888;
+  height: 538px;
+}
+
+#splash img {
+  display: block;
+  margin: 10px auto 0;
 }
