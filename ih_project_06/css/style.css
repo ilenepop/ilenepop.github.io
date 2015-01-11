@@ -2,6 +2,7 @@ body {
   background: rgba(235,235,235,1);
   line-height: 1.2em;
   font-family: "adobe-caslon-pro",serif;
+  color: white;
 }
 
 main {
@@ -53,12 +54,18 @@ h1, h2, h3, h4, h5, h6, nav a {
   font-family: "hwt-artz-n7","hwt-artz",sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 2em;
 }
 
-p{
-  color: white;
+footer {
+  background-color: rgba(0,0,0,0.75);
 }
+
+footer p {
+ font-size: .75em;
+ text-align: center;
+}
+
+
 
 #splash {
   background-color: rgba(0,0,0,0.75);
