@@ -26,15 +26,15 @@ nav a {
 }
 
 nav a:hover {
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(39,205,210,1);
 }
 
 #splash {
   background-color: rgba(0,0,0,0.75);
-  height: 538px;
+  height: 593px;
 }
 
 #splash img {
   display: block;
-  margin: 10px auto 0;
+  margin: 36px auto 0;
 }
