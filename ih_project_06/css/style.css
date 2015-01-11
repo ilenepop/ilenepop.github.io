@@ -50,9 +50,9 @@ nav a:hover:last-child {
 }
 
 h1, h2, h3, h4, h5, h6. nav a {
-  font-family: "hwt-artz",sans-serif;
-  font-weight: 700;
+  font-family: "hwt-artz-n7","hwt-artz",sans-serif;
   font-style: normal;
+  font-weight: 700;
 }
 
 p{
