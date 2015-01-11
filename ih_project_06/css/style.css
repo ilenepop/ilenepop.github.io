@@ -1,4 +1,8 @@
-body {}
+body {
+  background: rgba(235,235,235,1);
+  line-height: 1.2em;
+  font-family: "hwt-artz",sans-serif;
+}
 
 main {
   margin: 0 auto;
@@ -8,6 +12,7 @@ main {
 nav {
   background-color: rgba(0,0,0,0);
   font-family: Arial, sans-serif;
+
 }
 
 img {
@@ -18,15 +23,36 @@ nav a {
   background-color: #000000;
   color: white;
   text-decoration: none;
+  text-transform: uppercase;
   margin: 0 60px;
-  padding: 10px;
+  padding: 20px 10px 0px 10px;
   width: 110px;
   display: inline-block;
   text-align: center;
 }
 
-nav a:hover {
+nav a:hover:first-child {
   background-color: rgba(39,205,210,1);
+  color: black;
+}
+
+nav a:hover:nth-child(2) {
+  background-color: rgba(129,105,188,1);
+  color: black;
+}
+
+nav a:hover:nth-child(3) {
+  background-color: rgba(225,167,51,1);
+  color: black;
+}
+
+nav a:hover:last-child {
+  background-color: rgba(191,215,58,1);
+   color: black;
+}
+
+p{
+  color: white;
 }
 
 #splash {
@@ -37,4 +63,36 @@ nav a:hover {
 #splash img {
   display: block;
   margin: 36px auto 0;
+}
+
+#work {
+  background-color: rgba(39,205,210,1);
+  padding: 63px;
+}
+
+#work img {
+  display: block;
+  padding: 5px;
+  width: 25%;
+  float: left;
+  opacity: .58;
+}
+
+#work img:hover {
+  opacity: 1;
+}
+
+#about {
+  background-color: rgba(129,105,188,1);
+  padding: 63px;
+}
+
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: ".";
+  clear: both;
+  height: 0;
 }
