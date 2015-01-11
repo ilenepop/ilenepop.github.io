@@ -1,7 +1,7 @@
 body {
   background: rgba(235,235,235,1);
   line-height: 1.2em;
-  font-family: "hwt-artz",sans-serif;
+  font-family: "adobe-caslon-pro",serif;
 }
 
 main {
@@ -49,6 +49,10 @@ nav a:hover:nth-child(3) {
 nav a:hover:last-child {
   background-color: rgba(191,215,58,1);
    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "hwt-artz",sans-serif;
 }
 
 p{
