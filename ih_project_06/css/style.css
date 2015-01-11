@@ -10,6 +10,10 @@ nav {
   font-family: Arial, sans-serif;
 }
 
+img {
+  width: 300px;
+}
+
 nav a {
   background-color: #ff7900;
   color: white;
