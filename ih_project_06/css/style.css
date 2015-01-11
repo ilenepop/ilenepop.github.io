@@ -6,16 +6,16 @@ main {
 }
 
 nav {
-  background-color: #aaaaaa;
+  background-color: rgba(0,0,0,0);
   font-family: Arial, sans-serif;
 }
 
 img {
-  width: 300px;
+  width: 470px;
 }
 
 nav a {
-  background-color: #ff7900;
+  background-color: #000000;
   color: white;
   text-decoration: none;
   margin: 0 60px;
