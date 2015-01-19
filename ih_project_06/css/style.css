@@ -3,11 +3,18 @@ body {
   line-height: 1.2em;
   font-family: "adobe-caslon-pro",serif;
   color: white;
+  font-size: 16px;
 }
 
 main {
   margin: 0 auto;
   width: 960px;
+}
+
+h1, h2, h3, h4, h5, h6, nav a {
+  font-family: "hwt-artz-n7","hwt-artz",sans-serif;
+  font-style: normal;
+  font-weight: 700;
 }
 
 nav {
@@ -28,6 +35,7 @@ nav a {
   width: 110px;
   display: inline-block;
   text-align: center;
+  font-size: 1.62em;
 }
 
 nav a:hover:first-child {
@@ -48,13 +56,6 @@ nav a:hover:nth-child(3) {
 nav a:hover:last-child {
   background-color: rgba(191,215,58,1);
    color: black;
-}
-
-h1, h2, h3, h4, h5, h6, nav a {
-  font-family: "hwt-artz-n7","hwt-artz",sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 1.618em;
 }
 
 footer {
