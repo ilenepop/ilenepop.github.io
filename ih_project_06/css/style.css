@@ -12,7 +12,6 @@ main {
 
 nav {
   background-color: rgba(0,0,0,0);
-  font-size: 1em;
 }
 
 img {
@@ -55,6 +54,7 @@ h1, h2, h3, h4, h5, h6, nav a {
   font-family: "hwt-artz-n7","hwt-artz",sans-serif;
   font-style: normal;
   font-weight: 700;
+  font-size: .75em;
 }
 
 footer {
