@@ -85,7 +85,7 @@ footer p {
 
 #work img {
   display: block;
-  padding: 5px;
+  padding: 5px 0px 20px 0px;
   width: 25%;
   float: left;
   opacity: .58;
@@ -97,7 +97,7 @@ footer p {
 
 #about {
   background-color: rgba(129,105,188,1);
-  padding: 63px 0px 10px 0px;
+  padding: 63px;
   font-size: 1.62em;
 }
 
