@@ -58,7 +58,6 @@ nav a:hover:last-child {
    color: black;
 }
 
-
 footer {
   background-color: rgba(0,0,0,0.75);
 }
@@ -67,6 +66,7 @@ footer p {
  font-size: .75em;
  text-align: center;
 }
+
 
 
 #splash {
