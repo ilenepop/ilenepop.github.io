@@ -80,7 +80,6 @@ footer p {
 #work {
   background-color: rgba(39,205,210,1);
   padding: 63px;
-  margin-bottom: 10px;
   font-size: 1.62em;
 }
 
@@ -98,7 +97,7 @@ footer p {
 
 #about {
   background-color: rgba(129,105,188,1);
-  padding: 63px;
+  padding: 63px 0px 10px 0px;
   font-size: 1.62em;
 }
 
