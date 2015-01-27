@@ -17,6 +17,13 @@ h1, h2, h3, h4, h5, h6, nav a {
   font-weight: 700;
 }
 
+h2 {
+  font-family: "hwt-artz-n7","hwt-artz",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: black;
+}
+
 nav {
   background-color: rgba(0,0,0,0);
 }
