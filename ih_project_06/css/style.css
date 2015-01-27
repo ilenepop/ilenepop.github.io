@@ -69,8 +69,12 @@ nav a:hover:last-child {
    color: black;
 }
 
+article {
+  margin: 0 0 2em;
+}
+
 article footer {
-  background-color: rgba(0,0,0,0.75);
+  background-color: rgba(0,0,0,1);
   padding: .5em;
 }
 
