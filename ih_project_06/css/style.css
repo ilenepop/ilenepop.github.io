@@ -104,6 +104,7 @@ footer p {
 #blog {
   background-color: rgba(225,167,51,1);
   padding: 63px;
+  font-size: 1.62em;
 }
 
 .clearfix:after {
