@@ -69,8 +69,13 @@ nav a:hover:last-child {
    color: black;
 }
 
+<<<<<<< Updated upstream
 article {
   margin: 0 0 2em;
+=======
+footer {
+  background-color: rgba(235,235,235.75);
+>>>>>>> Stashed changes
 }
 
 article footer {
