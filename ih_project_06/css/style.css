@@ -12,15 +12,20 @@ main {
 }
 
 h1, h2, h3, h4, h5, h6, nav a {
-  font-family: "hwt-artz-n7","hwt-artz",sans-serif;
+  /*font-family: "hwt-artz-n7","hwt-artz",sans-serif;*/
+  font-family: 'HWT Artz';
   font-style: normal;
   font-weight: 700;
   margin-bottom: 18px;
 }
 
+h1 {
+  font-size: 1.62em;
+}
+
 h2 {
   color: black;
-  font-size: 1.62em;
+  font-size: 1.31em;
 }
 
 p {
@@ -46,7 +51,8 @@ nav a {
   width: 110px;
   display: inline-block;
   text-align: center;
-  font-size: 1.62em;
+  font-size: 1em;
+  letter-spacing: .1em;
 }
 
 nav a:hover:first-child {
@@ -97,7 +103,6 @@ article footer p {
 #work {
   background-color: rgba(39,205,210,1);
   padding: 63px;
-  font-size: 1.62em;
 }
 
 #work img {
@@ -119,6 +124,11 @@ article footer p {
 
 #blog {
   background-color: rgba(225,167,51,1);
+  padding: 63px;
+}
+
+#contact {
+  background-color: rgba(191,215,58,1);
   padding: 63px;
 }
 
