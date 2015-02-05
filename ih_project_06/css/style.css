@@ -80,7 +80,7 @@ article {
 }
 
 article footer {
-  background-color: rgba(235,235,235,1);
+  background-color: rgba(0,0,0,0.75);
   padding: .5em;
 }
 
@@ -128,7 +128,7 @@ article footer p {
 }
 
 #contact {
-  background-color: rgba(191,215,58,1);
+  background-color: rgba(0,0,0,0.75);
   padding: 63px;
 }
 
