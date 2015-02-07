@@ -8,7 +8,7 @@ body {
 
 main {
   margin: 0 auto;
-  width: 960px;
+  max-width: 960px;
 }
 
 h1, h2, h3, h4, h5, h6, nav a {
@@ -139,4 +139,10 @@ article footer p {
   content: ".";
   clear: both;
   height: 0;
+}
+
+@media only screen and (max-width: 984px) {
+  #work img {
+    width: 50%;
+  }
 }
