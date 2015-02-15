@@ -46,12 +46,13 @@ img {
   width: 470px;
 }
 
+
 nav a {
   background-color: #000000;
   color: white;
   text-decoration: none;
   text-transform: uppercase;
-  margin: 0 60px;
+  margin: 0 6.5%;
   padding: 20px 10px 0px 10px;
   width: 110px;
   display: inline-block;
@@ -137,6 +138,14 @@ article footer p {
   padding: 63px;
 }
 
+#contact h2 {
+  color: white;
+}
+
+#contact a {
+  color: orange;
+}
+
 .clearfix:after {
   visibility: hidden;
   display: block;
@@ -146,7 +155,7 @@ article footer p {
   height: 0;
 }
 
-@media only screen and (max-width: 984px) {
+@media only screen and (max-width: 600px) {
   #work img {
     width: 50%;
   }
