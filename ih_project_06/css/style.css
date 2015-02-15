@@ -157,6 +157,6 @@ article footer p {
 
 @media only screen and (max-width: 600px) {
   #work img {
-    width: 50%;
+    width: 25%;
   }
 }
